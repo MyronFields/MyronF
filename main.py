@@ -1,10 +1,13 @@
-a = "Myron Fields"
-b = "Lil Uzi Vert"
-c = "Comezel"
-d = "Gaming"
-e = "06/20/22"
+annual_rainfall_2019 = annual_rainfall_2019
+
+january_rainfall_2019 = 3.15
+febuary_rainfall_2019 = 3.64
+march_rainfall_2019 = 4.14
+
+winter_rainfall_2019 = january_rainfall_2019 + febuary_rainfall_2019 + march_rainfall_2019 + avg_winter_rainfall_2019 = winter_rainfall_2019 / 3 
 
 
-print("My name is" + a + ") print("and my favorite rapper" + b + "")
-print("I love to go on vacation to"  " + c + ") print("and my two main hobbies are") + d +")
-print("Today's date is" + e + ")
+print("The total winter rainfall is", winter_rainfall_2019, "inches")
+print("The average winter rainfall is", avg_winterfall_2019, "inches"
+
+annual_rainfall + winter_rainfall_2019
