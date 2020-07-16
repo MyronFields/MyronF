@@ -1,11 +1,15 @@
-#Take User input
-#Convert input to str
-userInput = str(input("give me a character to turn into a cube... "))
-
-#diamond varible 1
-d_1= userInput+" "+userInput+" "+userInput+" "+userInput
-#diamond varible 2
-d_2 = userInput+"    "+userInput
+user_input = int(input("{!__Myron__!}")
+user_input_2 = int(input("{!__Myron__!}")
 
 
-#Print ,
+for i in range(user_input,user_input_2):
+ print(user_info_2)
+       range{0,11}
+      
+# part 2
+       
+       
+       
+       
+       
+
