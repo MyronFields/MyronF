@@ -1,13 +1,12 @@
-V = ("a","e","i","o","u")
-print(V)
-I = str(input("Consonant is V"))
-uI = I.lower(vowel)
+num1 = range(10) # generates a random int between 0 and 10
+num2 = random.randint(1,6) # generates a random int between 1 and 6
 
-print(uI)
+num1 = range(100) # generates a random int between 0 and 100
+num2 = random.randint(1,6) # generates a random int between 1 and 6
 
-for i in range(len(I)):
-  
+num1 = range(100,000) # generates a random int between 0 and 100,000
+num2 = random.randint(1,6) # generates a random int between 1 and 6
 
-# of vowels : 5
-# of consonants : 1 
 
+
+'{:10.00%}'.format(rate) # returns a string
