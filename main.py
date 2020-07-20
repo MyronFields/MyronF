@@ -1,15 +1,13 @@
-user_input = int(input("{!__Myron__!}")
-user_input_2 = int(input("{!__Myron__!}")
+V = ("a","e","i","o","u")
+print(V)
+I = str(input("Consonant is V"))
+uI = I.lower(vowel)
 
+print(uI)
 
-for i in range(user_input,user_input_2):
- print(user_info_2)
-       range{0,11}
-      
-# part 2
-       
-       
-       
-       
-       
+for i in range(len(I)):
+  
+
+# of vowels : 5
+# of consonants : 1 
 
