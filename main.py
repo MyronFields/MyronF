@@ -1,12 +1,39 @@
-num1 = range(10) # generates a random int between 0 and 10
-num2 = random.randint(1,6) # generates a random int between 1 and 6
+import random
 
-num1 = range(100) # generates a random int between 0 and 100
-num2 = random.randint(1,6) # generates a random int between 1 and 6
+print("Random integer from 0 to 10")
+num1 = random.randint(0,9)
+print("Random integer: ", num1)
 
-num1 = range(100,000) # generates a random int between 0 and 100,000
-num2 = random.randint(1,6) # generates a random int between 1 and 6
+print("Random integer from 1 to 6")
+num2 = random.randint(1,6)
+print("random integer: ", num2)
+
+print("Random integer from 10 to 100")
+num1 = random.randint(10,100)
+print("Random integer: ", num1)
+
+print("Random integer from 1 to 6")
+num2 = random.randint(1,6)
+print("random integer: ", num2)
+
+# of iterations: 10
+# 1 = 11.11%
+# 2 = 33.33%
+# 3 = 83.33%
+# 4 = 80.00%
+# 5 = 66.67%
+# 6 = 14.28%
+
+# of iterations: 100
+# 1 = 10.00%
+# 2 = 3.26%
+# 3 = 3.41%
+# 4 = 26.08%
+# 5 = 4.71%
+# 6 = 1.23%
 
 
 
-'{:10.00%}'.format(rate) # returns a string
+
+
+
