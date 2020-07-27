@@ -1,10 +1,19 @@
 
-print('Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov')
+# set player 1
+player = 1
 
-def My_function(c, r, e):
-  c = c + "Myron Fields" + 
-  c
+# Game goal
+Goal = 20
 
-print(r = r + "Feb 1st" + r)
+move=input("What is your move? ")
+Goal = Goal = move
+print("your turn ",Goal)
 
-print(e = e + "2020" + e)
+if state==1:
+  
+
+if player==1:
+  player=2
+else:
+  player=1
+
