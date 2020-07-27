@@ -1,10 +1,10 @@
-print("outer loop | i = 1")
-print("inner loop | i = 2")
-print("inner loop")
-print("inner loop")
-print("inner loop")
-print("inner loop")
 
+print('Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov')
 
-for i in range(0,5):
-   print(i)
+def My_function(c, r, e):
+  c = c + "Myron Fields" + 
+  c
+
+print(r = r + "Feb 1st" + r)
+
+print(e = e + "2020" + e)
